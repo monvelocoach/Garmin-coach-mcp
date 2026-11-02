@@ -1,0 +1,7 @@
+{
+  "name": "garmin-coach-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Serveur MCP distant pour l'API personnelle Garmin Connect (lecture seule)",
+  "main": "src/index.js"
+}
